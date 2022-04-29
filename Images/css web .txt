@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+
+<head>
+  <meta charset="utf-8">
+  <title>Dileepa Personal Site</title>
+  <img src="images/Dileepa.png" alt="Dileepa profile photo">
+<style>
+
+body {
+    background-color :#827397;
+
+}
+
+hr {
+  border-style:none;
+  border-top-style: dotted;
+  border-color: white;
+  border-width: 5px;
+  width: 5%;
+
+}
+
+
+</style>
+
+</head>
+
+<body>
+
+  <h1>Dileepa!</h1>
+  <p><em>I'm based in Kandy and also west and born Kandy.<br>I work as a <strong>freelancer</strong><em /></p>
+  <p>I bumped into this coruse in jan</p>
+
+  <hr>
+
+  <h3>MY Hobbies</h3>
+
+
+
+
+
+</body>
+
+</html>
